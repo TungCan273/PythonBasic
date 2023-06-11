@@ -1,4 +1,3 @@
-
 def flip_cap(number_of_cap, cap_status):
     """
     :param number_of_cap: integer, the number of cap in the line.
